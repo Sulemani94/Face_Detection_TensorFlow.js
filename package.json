@@ -1,0 +1,11 @@
+{
+  "name": "picojs-master",
+  "version": "1.0.0",
+  "description": "* approximately 200 lines of pure JavaScript * see <https://tkv.io/posts/picojs-intro/> for details * real-time detection demo available at <https://tkv.io/posts/picojs-intro/demo/>",
+  "main": "pico.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
